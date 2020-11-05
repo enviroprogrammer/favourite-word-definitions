@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">My favorite words</string>
+  <string name="agile_word">Agile</string>
+  <string name="agile_meaning">relating to or denoting a method of project management, used especially for software development, that is characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans.</string>
+  <string name="delirium_word">Delirium</string>
+  <string name="delirium_meaning">an acutely disturbed state of mind that occurs in fever, intoxication, and other disorders and is characterized by restlessness, illusions, and incoherence of thought and speech.</string>
+  <string name="unknown_word">sorry i don\'t know this word</string>
+</resources>
